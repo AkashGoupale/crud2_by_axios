@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "Akash",
+      "surname": "Goupale",
+      "class": "10th",
+      "mail": "akash007@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "raju",
+      "surname": "goupale",
+      "class": "10th",
+      "mail": "raju123@gmail.com"
+    }
+  ]
+ 
+}
